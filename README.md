@@ -38,8 +38,7 @@ $ai-sanbo-report で、今日のまとめを作ってください。
 
 ```
 skills/ai-sanbo-report/
-├── SKILL.md              手順（同意 → 集める → 伏せる → レポート → 回収用 → 確認）
-└── assets/template.html  1枚レポートのひな形
+└── SKILL.md   手順（同意 → 集める → 伏せる → レポート → 回収用 → 確認）
 ```
 
 提供：株式会社SHO-SAN
